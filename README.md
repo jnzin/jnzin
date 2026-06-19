@@ -4,7 +4,7 @@ Full-stack engineer based in the interior of São Paulo, Brazil, and founder of 
 
 Currently technical co-founder of a subscription platform with thousands of paying users.
 
-**📂 [Engineering case studies →](https://github.com/jnzin/engineering-case-studies)** — in-depth writeups of systems I've designed, built, and operated.
+**📂 [Engineering case studies →](https://github.com/jnzin/engineering-case-studies)** · in-depth writeups of systems I've designed, built, and operated.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jnzin/engineering-case-studies)
 [![Jonlabs](https://img.shields.io/badge/Jonlabs-111827?style=for-the-badge&logo=safari&logoColor=white)](https://jonlabs.com.br)
